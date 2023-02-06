@@ -1,9 +1,10 @@
 {
   "name": "@willfiore/extrinsic-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A promise that can be resolved or rejected from the outside.",
-  "main": "dist/extrinsic-promise.cjs.js",
-  "module": "dist/extrinsic-promise.esm.js",
+  "repository": "https://github.com/willfiore/extrinsic-promise",
+  "main": "dist/willfiore-extrinsic-promise.cjs.js",
+  "module": "dist/willfiore-extrinsic-promise.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
